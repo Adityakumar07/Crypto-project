@@ -1,0 +1,24 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body {
+    
+    
+    
+    background-color: #14213d;
+    background-image: url("7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fix{
+    border:2px solid white;
+    border-radius: 5px;
+    background-color:white;
+    padding: 10px;
+}
+h1,h4{
+    color:#e5e5e5;
+}
